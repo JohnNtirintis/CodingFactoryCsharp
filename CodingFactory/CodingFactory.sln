@@ -17,39 +17,57 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpressionsApp", "Expressio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EurosToDollarsApp", "EurosToDollarsApp\EurosToDollarsApp.csproj", "{17A2715F-7D81-4ABA-8B07-F8FE99C4BE06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradesApp", "GradesApp\GradesApp.csproj", "{90364C30-CC48-4F16-BCCD-C61ED1424750}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GradesApp", "GradesApp\GradesApp.csproj", "{90364C30-CC48-4F16-BCCD-C61ED1424750}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IgnorePositivesApp", "IgnorePositivesApp\IgnorePositivesApp.csproj", "{A583BBAA-2C16-461C-A97E-E748DA9D28E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IgnorePositivesApp", "IgnorePositivesApp\IgnorePositivesApp.csproj", "{A583BBAA-2C16-461C-A97E-E748DA9D28E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharsApp", "CharsApp\CharsApp.csproj", "{E4876D43-09C9-4746-85FE-8DBE2832A16D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CharsApp", "CharsApp\CharsApp.csproj", "{E4876D43-09C9-4746-85FE-8DBE2832A16D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductApp", "ProductApp\ProductApp.csproj", "{12D41086-42D5-4311-B3DF-40ED7883026D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductApp", "ProductApp\ProductApp.csproj", "{12D41086-42D5-4311-B3DF-40ED7883026D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitsCountApp", "DigitsCountApp\DigitsCountApp.csproj", "{E0E2D1E9-DA8E-4D36-A2BD-EA607B203B8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DigitsCountApp", "DigitsCountApp\DigitsCountApp.csproj", "{E0E2D1E9-DA8E-4D36-A2BD-EA607B203B8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionApp", "ExceptionApp\ExceptionApp.csproj", "{BA2C3312-A7C7-417D-BE9B-D84DD4991421}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExceptionApp", "ExceptionApp\ExceptionApp.csproj", "{BA2C3312-A7C7-417D-BE9B-D84DD4991421}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForApp", "ForApp\ForApp.csproj", "{2F3D238B-F094-4B64-A613-47CE70DDB517}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForApp", "ForApp\ForApp.csproj", "{2F3D238B-F094-4B64-A613-47CE70DDB517}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerApp", "PowerApp\PowerApp.csproj", "{76780DC5-477A-4104-BBE4-CB85CC5F94C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PowerApp", "PowerApp\PowerApp.csproj", "{76780DC5-477A-4104-BBE4-CB85CC5F94C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchApp", "SwitchApp\SwitchApp.csproj", "{A2D4DCE2-81F4-4C0D-925B-508F5E042E2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwitchApp", "SwitchApp\SwitchApp.csproj", "{A2D4DCE2-81F4-4C0D-925B-508F5E042E2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchFallThroughApp", "SwitchFallThroughApp\SwitchFallThroughApp.csproj", "{C1D262AB-077F-4F99-9DA1-4D1E4E4CF338}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwitchFallThroughApp", "SwitchFallThroughApp\SwitchFallThroughApp.csproj", "{C1D262AB-077F-4F99-9DA1-4D1E4E4CF338}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysApp", "ArraysApp\ArraysApp.csproj", "{309336F0-C1C9-47C3-BA21-979AD4194C3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraysApp", "ArraysApp\ArraysApp.csproj", "{309336F0-C1C9-47C3-BA21-979AD4194C3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayMinApp", "ArrayMinApp\ArrayMinApp.csproj", "{97141482-131D-4FAE-B0A0-48E696FCF36F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayMinApp", "ArrayMinApp\ArrayMinApp.csproj", "{97141482-131D-4FAE-B0A0-48E696FCF36F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectionSortApp", "SelectionSortApp\SelectionSortApp.csproj", "{DAFC31EB-6288-4A86-BA6B-E59F7CD41451}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelectionSortApp", "SelectionSortApp\SelectionSortApp.csproj", "{DAFC31EB-6288-4A86-BA6B-E59F7CD41451}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SymmetricArrayApp", "SymmetricArrayApp\SymmetricArrayApp.csproj", "{3BD710EE-1DA1-49F0-BFC6-038511FEE908}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SymmetricArrayApp", "SymmetricArrayApp\SymmetricArrayApp.csproj", "{3BD710EE-1DA1-49F0-BFC6-038511FEE908}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoDimArr", "TwoDimArr\TwoDimArr.csproj", "{520508DD-1C8A-40D9-9EC1-CF281966C709}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoDimArr", "TwoDimArr\TwoDimArr.csproj", "{520508DD-1C8A-40D9-9EC1-CF281966C709}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayUtilApp", "ArrayUtilApp\ArrayUtilApp.csproj", "{BA67D374-E1A7-4A85-B39A-0033193CB8A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayUtilApp", "ArrayUtilApp\ArrayUtilApp.csproj", "{BA67D374-E1A7-4A85-B39A-0033193CB8A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringsApp", "StringsApp\StringsApp.csproj", "{144AD700-98AA-4290-80F4-DE21DCF33F02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringsApp", "StringsApp\StringsApp.csproj", "{144AD700-98AA-4290-80F4-DE21DCF33F02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringBuilderApp", "StringBuilderApp\StringBuilderApp.csproj", "{E0479ED6-A0B7-414C-9978-3D78072A4119}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArgsApp", "ArgsApp\ArgsApp.csproj", "{3CE22F91-77C1-46CE-A74E-E10A4FE722EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegExApp", "RegExApp\RegExApp.csproj", "{79C8DD76-05E2-4B86-ADDE-03B4508A167B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorialApp", "FactorialApp\FactorialApp.csproj", "{CFB20124-52CA-4FFC-80F1-BC983D7904A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapApp", "SwapApp\SwapApp.csproj", "{087F41D8-AD6E-4676-B097-D288490ED066}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverloadingApp", "OverloadingApp\OverloadingApp.csproj", "{4136962E-12DB-4FBA-A810-365BE51D749B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibo", "Fibo\Fibo.csproj", "{BE3CC736-F58B-40D0-A541-CFB639BB2099}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumbersApp", "PrimeNumbersApp\PrimeNumbersApp.csproj", "{015855EA-2614-4064-A36F-1E3F610A1BC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesApp", "ClassesApp\ClassesApp.csproj", "{FFECF4BA-7C26-4249-A30E-E934311BE4FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +171,42 @@ Global
 		{144AD700-98AA-4290-80F4-DE21DCF33F02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{144AD700-98AA-4290-80F4-DE21DCF33F02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{144AD700-98AA-4290-80F4-DE21DCF33F02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0479ED6-A0B7-414C-9978-3D78072A4119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0479ED6-A0B7-414C-9978-3D78072A4119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0479ED6-A0B7-414C-9978-3D78072A4119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0479ED6-A0B7-414C-9978-3D78072A4119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CE22F91-77C1-46CE-A74E-E10A4FE722EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CE22F91-77C1-46CE-A74E-E10A4FE722EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CE22F91-77C1-46CE-A74E-E10A4FE722EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CE22F91-77C1-46CE-A74E-E10A4FE722EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79C8DD76-05E2-4B86-ADDE-03B4508A167B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79C8DD76-05E2-4B86-ADDE-03B4508A167B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79C8DD76-05E2-4B86-ADDE-03B4508A167B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79C8DD76-05E2-4B86-ADDE-03B4508A167B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFB20124-52CA-4FFC-80F1-BC983D7904A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB20124-52CA-4FFC-80F1-BC983D7904A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB20124-52CA-4FFC-80F1-BC983D7904A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB20124-52CA-4FFC-80F1-BC983D7904A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{087F41D8-AD6E-4676-B097-D288490ED066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{087F41D8-AD6E-4676-B097-D288490ED066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{087F41D8-AD6E-4676-B097-D288490ED066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{087F41D8-AD6E-4676-B097-D288490ED066}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4136962E-12DB-4FBA-A810-365BE51D749B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4136962E-12DB-4FBA-A810-365BE51D749B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4136962E-12DB-4FBA-A810-365BE51D749B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4136962E-12DB-4FBA-A810-365BE51D749B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE3CC736-F58B-40D0-A541-CFB639BB2099}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE3CC736-F58B-40D0-A541-CFB639BB2099}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE3CC736-F58B-40D0-A541-CFB639BB2099}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE3CC736-F58B-40D0-A541-CFB639BB2099}.Release|Any CPU.Build.0 = Release|Any CPU
+		{015855EA-2614-4064-A36F-1E3F610A1BC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{015855EA-2614-4064-A36F-1E3F610A1BC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{015855EA-2614-4064-A36F-1E3F610A1BC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{015855EA-2614-4064-A36F-1E3F610A1BC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFECF4BA-7C26-4249-A30E-E934311BE4FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFECF4BA-7C26-4249-A30E-E934311BE4FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFECF4BA-7C26-4249-A30E-E934311BE4FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFECF4BA-7C26-4249-A30E-E934311BE4FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
