@@ -29,7 +29,7 @@
 
         // out is again a reference to the memory location, but,
         // its a pointer to a str and then a pointer to the actual value (i.e. in c its str**)
-        // you can also pass null values
+        // NOTE: you can also pass null values (you dont have to init the var)
         public static void ChangeStr(out string str)
         {
             str = "CF AUEB";

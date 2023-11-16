@@ -1,0 +1,12 @@
+﻿@page "/Students/{id}/get"
+@model WebAppStarter.Pages.Students.StudentModel
+@{
+}
+
+<div class="container">   
+    <h2>Student</h2>
+    <p> Id = @Model.StudentReadOnlyDTO.Id</p>
+    <p> First Name = @Model.StudentReadOnlyDTO.Firstname</p>
+    <p> Last Name = @Model.StudentReadOnlyDTO.Lastname</p>
+
+</div>

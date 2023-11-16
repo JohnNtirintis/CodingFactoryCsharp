@@ -24,7 +24,7 @@ namespace ClassesApp.Model
 
         // With init keyword, you can init ONCE
         // after that the value is immutable (final)
-        public int Id { get => id; set => id = value; }   
+        public int Id { get => id; init => id = value; }   
         public string? Firstname { get {  return firstname; } set {  firstname = value; } }
         public string? Lastname { get { return lastname; } set { lastname = value; } }
     }

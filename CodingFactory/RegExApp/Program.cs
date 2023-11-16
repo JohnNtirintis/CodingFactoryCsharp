@@ -11,7 +11,7 @@ namespace RegExApp
             int num1;
             int num2;
             string op;
-            int result;
+            int result = 0;
 
             Console.WriteLine("Please insert the expression.");
             expr = Console.ReadLine()!;
@@ -35,6 +35,9 @@ namespace RegExApp
                     result = num1 * num2;
                     break;
                 case "/":
+                    if(num2 == 0){
+                        Environment.Exit(1);
+                    }
                     result = num1 / num2;
                     break;
                 case "%":

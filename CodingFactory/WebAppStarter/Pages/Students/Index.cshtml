@@ -1,0 +1,37 @@
+﻿@page "/Students/getall"
+@model WebAppStarter.Pages.Students.IndexModel
+@{
+
+}
+
+<div class="container">
+    <h2>Students</h2>
+
+    <table class="table table-dark text-center"> 
+        <thead>
+            <tr>
+                <th colspan="3">Coding Factory Students</th>
+            </tr>
+            <tr>
+                <th>Id</th>
+                <th>First Name</th>
+                <th>Last Name</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @if (Model.Students is not null)
+            {
+                @foreach (var student in Model.Students)
+                {
+                    <tr>
+                        <td>@student.Id</td>
+                        <td>@student.Firstname</td>
+                        <td>@student.Lastname</td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+
+</div>
